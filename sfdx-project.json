@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "TCBDevGITHub",
+  "name": "IDXEnablement",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
